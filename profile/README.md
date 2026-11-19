@@ -24,6 +24,10 @@ maintenance workflow until its fix is released.
 <sub>Sentinel Aura in the light and the dark theme, with fictional data from Sentinel's example dataset.</sub>
 </p>
 
+<p align="center">
+<a href="https://vulnwatch.github.io/aura-tutorials/"><strong>New to Sentinel Aura? Watch its tutorials, chosen by role.</strong></a>
+</p>
+
 ## How It Fits Together
 
 ```mermaid
