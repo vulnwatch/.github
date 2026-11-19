@@ -24,6 +24,10 @@ maintenance workflow until its fix is released.
 <sub>Sentinel Aura in the light and the dark theme, with fictional data from Sentinel's example dataset.</sub>
 </p>
 
+<p align="center">
+<a href="https://vulnwatch.github.io/aura-tutorials/"><strong>New to Sentinel Aura? Watch its tutorials, chosen by role.</strong></a>
+</p>
+
 ## How It Fits Together
 
 ```mermaid
@@ -51,6 +55,8 @@ flowchart LR
 
 ## Links
 
+- **Tutorials:** narrated videos that show each role what it can do in
+  Sentinel Aura, at [vulnwatch.github.io/aura-tutorials](https://vulnwatch.github.io/aura-tutorials/).
 - **API documentation:** the interactive documentation of the latest Sentinel
   release, at [vulnwatch.github.io/sentinel](https://vulnwatch.github.io/sentinel/).
 - **Security:** report vulnerabilities to the SUSE Security Team as the
@@ -58,4 +64,6 @@ flowchart LR
   describes, never in a public issue.
 - **Issues:** the backend and its API in
   [Sentinel](https://github.com/vulnwatch/sentinel/issues), the web interface
-  in [Sentinel Aura](https://github.com/vulnwatch/sentinel-aura/issues).
+  in [Sentinel Aura](https://github.com/vulnwatch/sentinel-aura/issues), and
+  the tutorials in
+  [Aura Tutorials](https://github.com/vulnwatch/aura-tutorials/issues).
