@@ -11,6 +11,14 @@ tracks CVEs from public sources, analyzes their impact on packages,
 codestreams, and products, and follows each update through the SUSE
 maintenance workflow until its fix is released.
 
+> [!NOTE]
+> **Internal, non-commercial projects.** Sentinel and Sentinel Aura are
+> internal tools of the SUSE Security Team, published as open source. They
+> are not commercial products: SUSE does not sell, market, or offer them as
+> products or services. They are not related to, affiliated with, or endorsed
+> by any other product or company that uses the name Sentinel. All trademarks
+> belong to their respective owners.
+
 ## Projects
 
 | Project | What it is | Release |
